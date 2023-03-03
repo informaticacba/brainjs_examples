@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "brain.js": "^1.2.6"
+    "brain.js": "^1.6.1"
   }
 }
